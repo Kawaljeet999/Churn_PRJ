@@ -1,0 +1,27 @@
+1) Retrivel of data Set Doing some basic pandas operation/function
+2) Profiling of data
+3) Data Preprocessing 
+   --> a) Remove missing value both numeric and Categorial 
+   --> b) Fit the missing value using Simple imputer
+   --> c) Save dataset
+   --> d) Split Data in train and test
+   --> e) Feature Scaling 
+   --> f) Startified Shuffle
+   --> g) Split data and label seperately for model training
+4) EDA
+   --> Visualization both matplotlib and Seaborn what you know 
+   --> Also you use boxplot best to find outliers(Anomaly)
+5) Feature Engeenering
+   --> Do pearson correlation for making correlation matrix heatmap
+   --> Apply PCA for data reduction
+6) Model Selection
+   --> Train model on some data from original set and also extract labels from original set 
+   --> Apply pipeline has simple imputer and feature scaling and then do Prediction on some data
+7) Metrics
+   --> Accuracy score and F1 score for Classifictaion  
+   --> Mean square error for regression
+8) Cross validation
+9) Fine tuning
+10) Make a classification report
+11) Save and use model for test data
+12) get accuracy and F1 scoore for test data 

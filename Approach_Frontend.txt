@@ -1,0 +1,7 @@
+Note make strat = utliers then df train transformed in pca_df 
+
+1) first load by joblib PCA formed dataset with 3features that already been preprocessed and removed outliers
+2) ask user 3 features for input and before giving to model do label encoding and standard scalar with joblib then model with joblib predit 
+3) then the full tuple is stored in empty dataset which lenght is high 
+4) stack or join these together  dataset 
+5) make real time analyssis graph on them
