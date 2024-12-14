@@ -1,2 +1,0 @@
-Deployed using render 
-Link --> https://churn-prj-ht21.onrender.com
