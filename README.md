@@ -138,7 +138,7 @@ The `requirements.txt` includes the following libraries:
 
 To install these dependencies, run:
 ```bash
-pip install -r requirements.txt
+pip install -r Requirement.txt
 ```
 
 ---
